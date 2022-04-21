@@ -11,3 +11,8 @@
   * SENSOR(HC-SR04)
   * DISPLAY(Hd44780)
   * 5 VOLATGE SOURCE
+ 
+ # BADGES
+ * Codacy - Static Code Analysis
+ * Codiga - Static Analysis
+ * Cppcheck Analysis
