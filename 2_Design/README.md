@@ -5,4 +5,5 @@
 ![TAFFIC LIGHT (1)](https://user-images.githubusercontent.com/101981165/164439696-a597291d-a8cc-4cc0-8998-9e67599c2712.jpg)
 
 # State diagram
-![Untitled Diagram](https://user-images.githubusercontent.com/101981165/164468902-0512bb54-52b9-42fe-a739-b7ccb15abe9b.jpg)
+![Untitled Diagram](https://user-images.githubusercontent.com/101981165/164469354-621e8589-b8f4-43f8-adae-df879ef9026e.jpg)
+
