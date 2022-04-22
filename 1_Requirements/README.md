@@ -1,6 +1,6 @@
 # AIM
 Traffic signals are designed to ensure an orderly flow of traffic,  vehicles to cross an intersection
-and help reduce the number of conflicts between vehicles entering intersections from different directions.
+and help reduce the number of conflicts between vehicles entering intersections from different directions. Give the ambulances pathway for any signal it show display. 
 
 # Objectives
  the main objectives includes:
