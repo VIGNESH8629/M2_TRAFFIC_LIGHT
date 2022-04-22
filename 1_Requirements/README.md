@@ -18,7 +18,13 @@ and help reduce the number of conflicts between vehicles entering intersections 
  # Yellow
    Yellow light on: This tells drivers to stop when it is safe to, because the light is about to turn red.
  # Green
-    Green light on: This means the driver can start driving or keep driving
+    Green light on: This means the driver can start driving or keep driving.
+ # SENSOR    
+# 	ULTRASONIC SENSOR(HC-SR04)
+•	An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves.
+•	An ultrasonic sensor uses a transducer to send and receive ultrasonic pulses that relay back information about an object's proximity.
+
+
  
  # SWOT Analysis
  
